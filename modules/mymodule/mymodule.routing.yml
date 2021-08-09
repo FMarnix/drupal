@@ -1,7 +1,0 @@
-mymodule.content:
-  path: '/mymodule'
-  defaults:
-    _controller: '\Drupal\mymodule\Controller\FirstController::content'
-    _title: 'My first Page and Menu Item'
-  requirements: 
-    _permissions: 'access content'
